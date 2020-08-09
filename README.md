@@ -1,6 +1,6 @@
 # CS234N-2019
 
-My solutions for while auditing CS224N (Reinforcement Learning) 2019. 
+My solutions for the assignments while auditing CS224N (Reinforcement Learning) 2019. 
 
 
 ## Course links
